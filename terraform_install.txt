@@ -6,3 +6,4 @@ go to path
 paste terraform path and click the ok
 download the awscliv2
 install it
+write aws in cmd to test the aws cli installed or not

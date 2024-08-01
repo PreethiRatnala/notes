@@ -1,8 +1,0 @@
-terraform install in windows
-create software folder in c drive
-paste terraform application there
-go to environmental variable
-go to path
-paste terraform path and click the ok
-download the awscliv2
-install it
